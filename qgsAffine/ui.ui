@@ -61,7 +61,7 @@
          </size>
         </property>
         <property name="decimals">
-         <number>8</number>
+         <number>12</number>
         </property>
         <property name="minimum">
          <double>-999999999.000000000000000</double>
@@ -86,7 +86,7 @@
          </size>
         </property>
         <property name="decimals">
-         <number>8</number>
+         <number>12</number>
         </property>
         <property name="minimum">
          <double>-999999999.000000000000000</double>
@@ -111,7 +111,7 @@
          </size>
         </property>
         <property name="decimals">
-         <number>8</number>
+         <number>12</number>
         </property>
         <property name="minimum">
          <double>-999999999.000000000000000</double>
@@ -136,7 +136,7 @@
          </size>
         </property>
         <property name="decimals">
-         <number>8</number>
+         <number>12</number>
         </property>
         <property name="minimum">
          <double>-999999999.000000000000000</double>
@@ -161,7 +161,7 @@
          </size>
         </property>
         <property name="decimals">
-         <number>8</number>
+         <number>12</number>
         </property>
         <property name="minimum">
          <double>-999999999.000000000000000</double>
@@ -186,7 +186,7 @@
          </size>
         </property>
         <property name="decimals">
-         <number>8</number>
+         <number>12</number>
         </property>
         <property name="minimum">
          <double>-999999999.000000000000000</double>
